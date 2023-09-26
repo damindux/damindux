@@ -31,3 +31,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=damindux&" alt="damindux" /></p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=damindux&show_icons=true&locale=en" alt="damindux" /></p>
+
