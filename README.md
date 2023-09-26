@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/damindusandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="damindusandeepa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/damindu-dissanayake-5b5a79281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damindu dissanayake" height="30" width="40" /></a>
-<a href="https://instagram.com/damindu_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damindu_x" height="30" width="40" /></a>
+<a href="https://instagram.com/_damindux_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damindu_x" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@damindux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@damindux" height="30" width="40" /></a>
 </p>
 
