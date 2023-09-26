@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damindu Sandeepa</h1>
-<h3 align="center">A passionate Game Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damindux&label=Profile%20views&color=0e75b6&style=flat" alt="damindux" /> </p>
 
