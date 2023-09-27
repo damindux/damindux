@@ -5,9 +5,7 @@
 
 <img align="right" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" height=250 width=350>
 
-- 🌱 I’m currently learning **C, C++, Python**
-
-- 💬 Ask me about **C, C++, Python**
+- 🌱 I’m currently learning **C++, Rust, Python**
 
 - 📫 How to reach me **damindusandeepa2002@gmail.com**
 
