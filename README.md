@@ -12,7 +12,7 @@ A software developer passionate about backend systems, cloud computing, and game
 
 📫 **Contact**: damindusandeepa2002@gmail.com | [Linkedin](https://www.linkedin.com/in/damindu-dissanayake-5b5a79281/)
 
-⚡ Fun fact: An anime enthusiast! 💥
+⚡ **Fun fact**: I am an Anime enthusiast! 💥
 
 Let's code something amazing together! 😄
 
