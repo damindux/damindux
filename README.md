@@ -8,7 +8,7 @@ A software developer passionate about backend systems, cloud computing, and game
 
 🔭 **Recent Projects**:
 - Blogging Platform - ASP.NET, Angular, PostgreSQL
-- Secure Chat App - Go, TypeScript
+- Chat Application - Go, Vue, PostgreSQL
 
 📫 **Contact**: damindusandeepa2002@gmail.com | [Linkedin](https://www.linkedin.com/in/damindu-dissanayake-5b5a79281/)
 
